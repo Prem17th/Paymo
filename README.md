@@ -2,14 +2,17 @@
 
 **An AI payment assistant that listens, explains payments, and helps when something goes wrong.**
 
-![React](https://img.shields.io/badge/React-Frontend-202020?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-AI%20Assistant-202020?logo=openai&logoColor=white)
-![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-Voice-111111)
-![Cashfree](https://img.shields.io/badge/Cashfree-Sandbox%20Payments-111111)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sarvam_AI-EC4899?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cashfree-Sandbox-FF6B35?style=for-the-badge&logoColor=white" />
+</p>
 
 ## The problem
 
