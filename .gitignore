@@ -1,0 +1,47 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Node and generated frontend files
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# Local databases, backups and private uploads
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.backup
+*.db.backup
+uploads/
+receipts/
+private/
+test_receipt*
+*.wav
+*.mp3
+scratch/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
