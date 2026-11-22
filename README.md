@@ -11,6 +11,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-AI%20Assistant-10A37F?logo=openai&logoColor=white)
 ![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-Voice-8B5CF6?logoColor=white)
 ![Cashfree](https://img.shields.io/badge/Cashfree-Sandbox%20Payments-FF6B00?logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-22C55E)
 
 ## The problem
 
